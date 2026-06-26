@@ -6,3 +6,24 @@ dist/
 build/
 coverage/
 *.log
+
+
+# virtual environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# datasets (optional but recommended)
+data/
+output/
+outputs/
+
+# model weights
+*.pt
+*.pth
+
+# notebooks checkpoints
+.ipynb_checkpoints/
